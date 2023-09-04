@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ef55f8dc1feaf7449701e3f074e5e3a, type: 3}
+  m_Name: Step 2
+  m_EditorClassIdentifier: 
+  cardName: "Identifica\xE7\xE3o de subst\xE2ncias ativas"
+  description: "Os ensaios bioqu\xEDmicos identificaram v\xE1rias subst\xE2ncias
+    com atividade satisfat\xF3ria, provenientes de diferentes fam\xEDlias qu\xEDmicas."
+  step: 2

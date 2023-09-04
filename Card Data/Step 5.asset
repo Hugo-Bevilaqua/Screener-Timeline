@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ef55f8dc1feaf7449701e3f074e5e3a, type: 3}
+  m_Name: Step 5
+  m_EditorClassIdentifier: 
+  cardName: "Rela\xE7\xE3o Estrutura-Atividade"
+  description: "Voc\xEA conseguiu estabelecer uma boa rela\xE7\xE3o estrutura-atividade,
+    garantindo uma otimiza\xE7\xE3o futura de suas subst\xE2ncias."
+  step: 5
